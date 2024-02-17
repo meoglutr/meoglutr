@@ -42,15 +42,15 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://www.linkedin.com/in/mehmet-elifo%C4%9Flu/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ferdi ulas" height="30" width="40" /></a>
-<a href="https://www.youtube.com/channel/UC1NGz9qRbyd-_E82J_EbUVA" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="ferdi ulaş" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/mehmet-elifo%C4%9Flu/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="meoglutr" height="30" width="40" /></a>
+<a href="https://www.youtube.com/channel/UC1NGz9qRbyd-_E82J_EbUVA" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="meoglutr" height="30" width="40" /></a>
 <a href="https://discord.gg/mntkcPpn" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="https://discord.gg/vX62Jw3R" height="30" width="40" /></a>
 </p>
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ferdi-ulas/ferdi-ulas/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/meoglutr/meoglutr/output/github-contribution-grid-snake-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ferdi-ulas/ferdi-ulas/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/ferdi-ulas/ferdi-ulas/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/meoglutr/meoglutr/output/github-contribution-grid-snake.svg">
 </picture>
 <br>
 
@@ -58,7 +58,7 @@
 
 
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ferdi-ulas&show_icons=true&locale=en&theme=radical" alt="ferdi-ulas" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=meoglutr&show_icons=true&locale=en&theme=radical" alt="meoglutr" /></p>
 
 
 
