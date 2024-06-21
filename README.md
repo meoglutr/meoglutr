@@ -2,7 +2,7 @@
 <h3 align="center">A passionate frontend developer from Turkey</h3>
 
 
-- 🌱 I’m currently learning **React**
+- 🌱 I'm learning right now
 
 - 👨‍💻 Front-end developer who loves learning and teaching.
   
