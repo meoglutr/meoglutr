@@ -16,6 +16,7 @@
 
 - 📫 How to reach me **mehmeteoglutr@gmail.com**
 
+- For CV => https://mehmetelifoglu.com/
 
 
 <h3 align="left">Connect with me:</h3>
